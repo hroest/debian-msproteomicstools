@@ -1,8 +1,8 @@
-python-msproteomicstools (0.5.0-1) experimental; urgency=low
+python-msproteomicstools (0.3.3-1) experimental; urgency=low
 
   * Initial release 
 
- -- Hannes Roest <xxx@debian.org>  Mo, 17 Aug 2015 22:41:41 +0200
+ -- Hannes Roest <xxx@debian.org>  Fri, 04 Apr 2014 17:58:41 +0200
 
 
 
