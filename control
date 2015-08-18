@@ -6,10 +6,23 @@ Build-Depends: debhelper (>= 9.2),
                dh-python,
                python-all (>= 2.6.6-3~),
                python-nose,
+               python-numpy,
+               python-scipy,
+               python-xlwt,
+               python-lxml,
+               python-xlsxwriter,
+               python-cluster,
                python-setuptools,
+               python-biopython,
+               python-configobj,
+               python-rpy2,
                python3-all, 
                python3-nose,
-               python3-setuptools
+               python3-setuptools,
+               python3-numpy,
+               python3-scipy,
+               python3-xlsxwriter,
+               python3-lxml
 Standards-Version: 3.9.5
 Section: libs
 
